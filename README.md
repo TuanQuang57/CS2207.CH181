@@ -5,6 +5,6 @@
 - **Nguyễn Kiều Vinh :** ***2301010130***
 - **Lăng Huỳnh Đăng Khoa :** ***230101051***
 - **Nguyễn Hữu Tân :** ***230101058***
-- **Phạm Nguyễn Thanh Bình :** ***230101072*******
+- **Phạm Nguyễn Thanh Bình :** ***230101072***
 
 ## Sequential pattern mining
